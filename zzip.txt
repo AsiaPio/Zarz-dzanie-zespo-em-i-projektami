@@ -7,6 +7,8 @@ Dodać dowolny plik
 
 ~~DODANO ZMIANY~~ 
 
+~~Dodano kolejne zmiany~~
+
 
 
 Dodać plik do repozytorium i wykonać pierwszy commit

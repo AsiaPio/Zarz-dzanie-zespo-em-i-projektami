@@ -1,1 +1,4 @@
 plik numer 2
+
+
+~~edytowano plik~~
